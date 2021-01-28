@@ -1,4 +1,3 @@
 # TurkScout
 Best fake site phishing tool. TurkScout !
-![turkscout](https://imgur.com/fdc98cae-2758-4ff9-a005-48a177f13584)
-
+![Screenshot 2020-02-09 at 5 08 54 PM](https://i.imgur.com/qSofJmf.png)
